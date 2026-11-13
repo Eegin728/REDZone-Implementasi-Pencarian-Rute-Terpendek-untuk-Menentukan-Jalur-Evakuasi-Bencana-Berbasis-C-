@@ -1,0 +1,47 @@
+1
+1
+Akehuda
+Pelabuhan dufa-dufa
+2
+1
+Kampus 1 Unkhair
+1
+ruteK-Kampus1
+1.06
+3
+Jln Bandara Babullah
+0.4
+Belok Kanan
+Billboard Ternate Kota Bersejarah
+1
+Hati-hati dijalan
+Jln Batu Angus
+0.8
+Belok Kiri pas dipertigaan
+Alfamidi dufa-dufa
+1
+Tetap Tenang
+Jln Cakalang
+0.6
+Lurus terus
+Pasar dufa-dufa
+0
+Sudah sampai
+2
+Lanal Ternate
+1
+ruteK-Lanal1
+0.6
+2
+Jln Batu Angus
+0.25
+Belok kiri pas pertigaan
+Alfamidi dufa-dufa
+0
+hati-hati di jalan
+Jln Cakalang
+0.6
+Lurus Terus
+Pasar Dufa-dufa
+0
+Sudah sampai
